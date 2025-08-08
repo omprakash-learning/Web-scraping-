@@ -32,10 +32,6 @@ This project scrapes book data from [books.toscrape.com](https://books.toscrape.
 2. Run all cells
 3. Download the output files `books.csv` and `books.json`
 
-## 📁 Output Example
-
-![Sample Output](https://books.toscrape.com/media/cache/6e/41/6e41d2a8f5f1c3c84d3bba7d3f74c2df.jpg)
-
 ## 📌 Notes
 
 - This project is beginner-friendly and a great introduction to web scraping.
